@@ -12,11 +12,10 @@ Includes:
 - symbols
 The generator handles invalid inputs, such as entering a number outside the 8–50 range or entering letters instead of a number.
 
-## Technologies
+## Python modules used: 
 
-- Python 3
-- `random` module
-- `string` module
+- `random` module (used to randomly select characters for the password.)
+- `string` module (Provides letters, numbers and symbols.)
 
 ## How to Run
 
@@ -30,21 +29,6 @@ python password_generator.py
 ```
 
 5. Follow the instructions in the terminal.
-
-## Example
-
-```text
-=== Password Generator ===
-Enter password length (8-50): 12
-Include uppercase letters? (y/n): y
-Include numbers? (y/n): y
-Include symbols? (y/n): y
-
-Your generated password is:
-aB7!kP2@xQ9#
-```
-
-The password shown above is only an example.
 
 ## What I Learned
 
