@@ -42,7 +42,3 @@ This project helped me practise:
 - String manipulation
 - Python modules
 - Random value generation
-
-## Author
-
-Sunny
