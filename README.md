@@ -38,8 +38,6 @@ This project helped me practise:
 - Python functions
 - `if` statements
 - `while` loops
-- `try` and `except`
 - User input
-- String manipulation
 - Python modules
 - Random value generation
