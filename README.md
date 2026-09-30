@@ -10,7 +10,8 @@ Includes:
 - lowercase letters
 - numbers
 - symbols
-The generator handles invalid inputs, such as entering a number outside the 8–50 range or entering letters instead of a number.
+
+The generator also handles invalid inputs, such as entering a number outside the 8–50 range or entering letters instead of a number.
 
 ## Python modules used: 
 
